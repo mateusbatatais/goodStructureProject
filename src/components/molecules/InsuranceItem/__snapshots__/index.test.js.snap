@@ -1,0 +1,266 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Show Insurances item snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <article
+        class="card  rounded d-flex my-4 p-4"
+        data-testid="item-click"
+      >
+        <div
+          class="flex-fill"
+        >
+          <section
+            class="cardTitleHolder border-bottom d-flex justify-content-between"
+          >
+            <i
+              class="d-none d-md-block rounded-circle me-4 flex-shrink-0 flex-grow-0 cardIcon "
+              data-testid="arrow"
+            />
+            <div
+              class="flex-fill"
+            >
+              <h3
+                class="cardTitle mb-0"
+              >
+                London to Paris
+              </h3>
+              <div
+                class="cardSubTitle"
+              >
+                TRAVEL-COVER-INS
+                 | 
+                Baggage Cover; Medical Cover; Cancellation Cover
+              </div>
+            </div>
+            <img
+              alt="Labore Inc."
+              class="cardImageTablet d-none d-md-block d-lg-none"
+              src="https://s3-ap-southeast-2.amazonaws.com/cg-frontend-tests/labore.svg"
+              title="Labore Inc."
+            />
+          </section>
+          <section
+            class="cardDetails d-flex"
+          >
+            <div
+              class="d-none d-md-block"
+            >
+              <div
+                class="cardTitleDetail"
+              >
+                10-MAY-2019
+              </div>
+              <div
+                class="cardSubTitleDetail"
+              >
+                Payment date
+              </div>
+            </div>
+            <div>
+              <div
+                class="cardTitleDetail"
+              >
+                16-JUL-2019
+                 to 
+                18-FEB-2019
+              </div>
+              <div
+                class="cardSubTitleDetail"
+              >
+                Coverage dates
+              </div>
+            </div>
+            <div
+              class="d-none d-md-block"
+            >
+              <div
+                class="cardTitleDetail"
+              >
+                AUD $106.65
+              </div>
+              <div
+                class="cardSubTitleDetail"
+              >
+                Price/Premium
+              </div>
+            </div>
+            <div
+              class="d-md-none text-end flex-fill"
+            >
+              <img
+                alt="Labore Inc."
+                class="cardImageMob"
+                src="https://s3-ap-southeast-2.amazonaws.com/cg-frontend-tests/labore.svg"
+                title="Labore Inc."
+              />
+            </div>
+          </section>
+        </div>
+        <img
+          alt="Labore Inc."
+          class="cardImageDesktop d-none d-lg-block ms-4"
+          src="https://s3-ap-southeast-2.amazonaws.com/cg-frontend-tests/labore.svg"
+          title="Labore Inc."
+        />
+      </article>
+    </div>
+  </body>,
+  "container": <div>
+    <article
+      class="card  rounded d-flex my-4 p-4"
+      data-testid="item-click"
+    >
+      <div
+        class="flex-fill"
+      >
+        <section
+          class="cardTitleHolder border-bottom d-flex justify-content-between"
+        >
+          <i
+            class="d-none d-md-block rounded-circle me-4 flex-shrink-0 flex-grow-0 cardIcon "
+            data-testid="arrow"
+          />
+          <div
+            class="flex-fill"
+          >
+            <h3
+              class="cardTitle mb-0"
+            >
+              London to Paris
+            </h3>
+            <div
+              class="cardSubTitle"
+            >
+              TRAVEL-COVER-INS
+               | 
+              Baggage Cover; Medical Cover; Cancellation Cover
+            </div>
+          </div>
+          <img
+            alt="Labore Inc."
+            class="cardImageTablet d-none d-md-block d-lg-none"
+            src="https://s3-ap-southeast-2.amazonaws.com/cg-frontend-tests/labore.svg"
+            title="Labore Inc."
+          />
+        </section>
+        <section
+          class="cardDetails d-flex"
+        >
+          <div
+            class="d-none d-md-block"
+          >
+            <div
+              class="cardTitleDetail"
+            >
+              10-MAY-2019
+            </div>
+            <div
+              class="cardSubTitleDetail"
+            >
+              Payment date
+            </div>
+          </div>
+          <div>
+            <div
+              class="cardTitleDetail"
+            >
+              16-JUL-2019
+               to 
+              18-FEB-2019
+            </div>
+            <div
+              class="cardSubTitleDetail"
+            >
+              Coverage dates
+            </div>
+          </div>
+          <div
+            class="d-none d-md-block"
+          >
+            <div
+              class="cardTitleDetail"
+            >
+              AUD $106.65
+            </div>
+            <div
+              class="cardSubTitleDetail"
+            >
+              Price/Premium
+            </div>
+          </div>
+          <div
+            class="d-md-none text-end flex-fill"
+          >
+            <img
+              alt="Labore Inc."
+              class="cardImageMob"
+              src="https://s3-ap-southeast-2.amazonaws.com/cg-frontend-tests/labore.svg"
+              title="Labore Inc."
+            />
+          </div>
+        </section>
+      </div>
+      <img
+        alt="Labore Inc."
+        class="cardImageDesktop d-none d-lg-block ms-4"
+        src="https://s3-ap-southeast-2.amazonaws.com/cg-frontend-tests/labore.svg"
+        title="Labore Inc."
+      />
+    </article>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

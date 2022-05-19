@@ -1,0 +1,18 @@
+@import "./vars";
+@import "~bootstrap/scss/bootstrap";
+
+@import url("https://use.typekit.net/hzn4qhc.css");
+
+html {
+  font-size: 12px;
+}
+body {
+  font-family: "brandon-grotesque";
+  margin: 2rem 0;
+  color: $text;
+}
+h1 {
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 30px;
+}
